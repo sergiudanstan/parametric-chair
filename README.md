@@ -1,3 +1,7 @@
+> **Superseded by furniture-quotation** → <https://github.com/sergiudanstan/furniture-quotation> · <https://sergiudanstan.github.io/furniture-quotation/>
+> It offers the same ten-parameter chair with 3MF/STL/OBJ export, plus a live price and PDF quote, and a table.
+> This repository is archived; the text below is kept as history.
+
 # parametric-chair
 
 [![CI](https://github.com/sergiudanstan/parametric-chair/actions/workflows/ci.yml/badge.svg)](https://github.com/sergiudanstan/parametric-chair/actions/workflows/ci.yml)
